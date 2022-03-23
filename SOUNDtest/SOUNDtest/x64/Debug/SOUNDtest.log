@@ -1,2 +1,3 @@
 ﻿  Source.cpp
-  SOUNDtest.vcxproj -> C:\Users\Génésise\source\repos\SOUNDtest\x64\Debug\SOUNDtest.exe
+C:\Users\GAME1\Downloads\QuizzC-main\SOUNDtest\SOUNDtest\Source.cpp(117,6): warning C4101: 'r' : variable locale non référencée
+  SOUNDtest.vcxproj -> C:\Users\GAME1\Downloads\QuizzC-main\SOUNDtest\x64\Debug\SOUNDtest.exe
